@@ -1,5 +1,5 @@
 let soundFile; 
-let soundPlayed = false;
+let soundPlayed;
 let startTime;
 let girlImg;
 
